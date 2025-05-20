@@ -692,7 +692,7 @@ Preferred:
 - Knowledge of CI/CD, OpenShift, Kubernetes, etc.
 - Ability to adapt and learn new technologies
 
---------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
 Job Description 39:
 
@@ -711,7 +711,7 @@ Nice to Have:
 - Exposure to state management libraries such as Redux or NgRx
 - Experience with frontend build tools and CI/CD processes
 
---------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
 Job Description 40:
 
@@ -730,5 +730,217 @@ Skills and Qualifications:
 Skills Highlight:
 - React Native and JavaScript
 
---------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+Job Description 41:
+
+Requirements:
+- Bachelor’s degree or equivalent experience in Computer Science or related field
+- 1-3 years of experience in Angular / web development
+- Hands-on experience with AI-powered coding tools such as Cursor, Windsurf, or Replit (regular usage of at least one preferred)
+- Minimum 1 year experience with client-side scripting and JavaScript frameworks (Angular, Vue.js, or React.js), Typescript including jQuery
+- Good understanding of UI and UX principles
+- Basic understanding of SQL
+- Experience with third-party libraries and APIs
+- Proficient understanding of web markup, including HTML5, CSS3
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+Job Description 42:
+
+Requirements:
+- 5+ years of software development experience with excellent coding skills in JavaScript, HTML5 & CSS
+- 5+ years of experience in React.js & Webpack
+- 4+ years of experience in Next.js
+- 2+ years of experience contributing to architecture and design (LLD, HLD, SOLID principles, design patterns, and scaling) of new and existing systems; hands-on design experience
+- Strong experience in technically leading junior developers with a goal-oriented approach
+- Working experience with RESTful APIs
+- Good to have knowledge of Database technologies (SQL & NoSQL) and React v18
+- Strong understanding of native JavaScript with data structures & algorithm problem solving
+- Good understanding of JavaScript frameworks and MVC frameworks
+- Strong understanding of Node.js and knowledge around Node.js performance improvement
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+Job Description 43 :
+
+- 3+ years of commercial experience with React.js  
+- Proficient in React.js core principles (components, state management, hooks, lifecycle methods)  
+- Familiarity with TypeScript for type safety  
+- Strong skills in JavaScript, HTML5, and CSS3  
+- Understanding of front-end build tools and pipelines  
+- Good English communication skills  
+- Experience integrating RESTful APIs  
+- Familiarity with Microsoft development tools  
+- Practical knowledge of software design principles and standard methodologies  
+- Proficient in debugging and resolving software issues  
+- Experience in manual unit testing, unit and integration testing  
+- Worked on full-lifecycle projects following formal software development methodologies  
+- Ability to work within diverse environments and remote teams  
+- Experience designing and implementing RESTful APIs  
+
+Preferred Qualifications:  
+Bachelor’s degree in Computer Science or related field; 4–7 years of experience with at least 3 years in software development; experience with WebSockets and Tomcat servlet engine; knowledge of SQL Server, Apache Cassandra, PostgreSQL; experience with JUnit tests; knowledge of SCADA systems and networking; basic knowledge of renewable assets (wind turbines, solar plants, BESS) and Redux; experience with Agile methodologies; recognized expertise in a technology or product area.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 44 :
+
+- Develop and maintain modern web applications using React.js  
+- Build responsive UI components with React, TypeScript, and hooks like useState and useContext  
+- Collaborate with UX/UI designers to deliver accessible and engaging user experiences  
+- Ensure scalability, security, and performance through coding best practices  
+- Write unit, integration, and automated tests (using tools like Jest and React Testing Library)  
+- Work collaboratively in Agile teams with DevOps, Product, and QA  
+- Stay current with modern frontend technologies and suggest system improvements  
+
+Required Qualifications:  
+- Bachelor's degree in Computer Science, IT, or related field  
+- 1–4 years of experience, with at least 1 year in React.js using TypeScript  
+
+Skills:  
+- Proficient in React.js, including hooks, context API, and functional components lifecycle  
+- Strong in frontend state management and handling high data volume  
+- Experienced with unit and integration testing  
+- Solid debugging and problem-solving abilities  
+- Exposure to Agile/Scrum development methodologies  
+
+Nice to Have:  
+- Experience with react-hook-form, zod, or okta-react  
+- Familiarity with cloud platforms like AWS, Azure, or GCP  
+- Knowledge of Docker, Kubernetes, and CI/CD pipelines  
+- Proficient with Git-based version control tools (GitHub, GitLab, Bitbucket)  
+
+Desired Skills: HTML, CSS, JavaScript, Integration Testing, TypeScript, React.js, Unit Testing
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 45 :
+
+- 3+ years of experience in software development using web/UI technologies  
+- Skilled in ReactJS, Redux, NodeJS, and HTML/CSS  
+- Strong experience developing and debugging web applications across different browsers  
+- Good understanding of object-oriented programming concepts  
+- Knowledge of cross-browser compatibility issues and appropriate workarounds  
+- Familiar with optimization techniques, testing methodologies, and software development lifecycle  
+- Practices good development habits, including unit testing, continuous integration (CI), and automation  
+- Focused on delivering top-tier user experiences (UX)  
+- Experience with mobile development is a plus  
+- Exposure to dynamic or enterprise startup environments is advantageous  
+
+Desired Skills: ReactJS, Redux, NodeJS, HTML, CSS, Cross-browser Debugging, Testing, CI, UX, OOP
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 46 :
+
+- Design and develop user interfaces for AI products with a focus on seamless and engaging experiences  
+- Collaborate with designers and backend engineers to translate design concepts into functional applications  
+- Implement responsive design for compatibility across devices and screen sizes  
+- Integrate frontend applications using RESTful APIs and GraphQL  
+- Conduct code reviews and promote frontend best practices  
+- Create and execute testing plans to ensure application stability and reliability  
+- Optimize frontend performance using techniques like lazy loading, code splitting, and asset optimization  
+- Stay updated with frontend development advancements and apply innovative solutions  
+- Mentor junior engineers and encourage continuous learning and improvement  
+- Align frontend goals with strategic objectives to deliver high-quality user interfaces  
+
+Desired Skills: React, Angular, Vue.js, Redux, MobX, Vuex, Tailwind CSS, Bootstrap, REST APIs, GraphQL, Git, Jest, Cypress, Webpack, Babel, Figma, Performance Optimization
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 47 :
+
+- Develop, test, and maintain user-facing features using Angular and JavaScript  
+- Collaborate with designers, backend developers, and product managers to deliver responsive and scalable applications  
+- Participate in Agile ceremonies such as stand-ups, sprint planning, and retrospectives  
+- Use Git for version control and team collaboration  
+- Write clean, well-documented, and maintainable code  
+- Work with NoSQL databases like MongoDB or Firebase as needed  
+- Contribute to and customize WordPress websites  
+- Support integration of data visualizations using tools like Power BI when required  
+
+Desired Skills: JavaScript, Angular, NoSQL (MongoDB/Firebase), WordPress, Git, Power BI, Agile, OOP (C#/C++), Clean Code, Scalable Solutions
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 48 :
+
+- Highly proficient in JavaScript, including modern syntax and features  
+- Strong understanding of Vue.js core principles: components, reactivity, virtual DOM  
+- Experience with CSS frameworks like Tailwind and Bootstrap  
+- Familiar with the Vue.js ecosystem: Vite, Pinia, Vue Router, Nuxt.js  
+- Skilled in responsive and adaptive design techniques  
+- Solid knowledge of HTML5 / CSS3 and integration of third-party UI libraries  
+- Proficient with standard dev tools and services: Git, GitHub, npm  
+- Experience integrating and maintaining external libraries and APIs using CLI and package managers  
+- Understand cross-browser compatibility challenges and solutions  
+
+Desired Skills: JavaScript, Vue.js, React, Tailwind CSS, Bootstrap, HTML5, CSS3, Pinia, Nuxt.js, Vue Router, Git, npm, Vite, API Integration, CLI
+
+Qualifications:  
+- Bachelor’s or Master’s in Computer Science, Information Technology, or Engineering  
+- Minimum 2 years of experience as a front-end developer  
+- Hands-on experience with Vue.js and React.js is a must  
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 49 :
+
+Key Responsibilities:
+- Design and develop dynamic, user-friendly web interfaces using Angular (v10+) and TypeScript  
+- Integrate with RESTful APIs and handle asynchronous data using RxJS and Observables  
+- Optimize frontend performance and ensure cross-browser compatibility  
+- Collaborate with backend developers, designers, and stakeholders in an agile environment  
+- Work with cloud platforms such as Azure or AWS for application deployment and integrations  
+- Participate in code reviews and contribute to the continuous improvement of frontend architecture  
+
+Required Skills and Qualifications:
+- 2–5 years of professional experience with Angular and TypeScript  
+- Proficiency in HTML5, CSS3, SCSS, and JavaScript  
+- Solid understanding of RxJS, Observables, and state management patterns  
+- Experience working with REST APIs and backend integration  
+- Familiarity with component-based architecture and modular frontend design  
+- Basic understanding of Git, version control, and CI/CD pipelines  
+- Exposure to cloud platforms such as AWS or Azure and strong attention to detail  
+
+Desired Skills: Angular (v10+), TypeScript, HTML5, CSS3, SCSS, JavaScript, RxJS, REST API, Git, CI/CD, AWS, Azure, Component Architecture
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 50:
+
+Requirements:
+
+- Develop and maintain robust, scalable front-end applications using Next.js and React  
+- Expert in Next.js, React, and API integration  
+- Design and develop responsive user interfaces that work seamlessly across various devices and browsers  
+- Write clean, maintainable, and well-documented code  
+- Participate in code reviews and contribute to our development best practices  
+- Optimize application performance and loading times  
+- Work closely with UI/UX designers to implement visually appealing and user-friendly interfaces  
+- Troubleshoot and debug issues in front-end applications  
+- Stay up-to-date with emerging front-end technologies and industry trends  
+- Proven experience as a Front-End Engineer, with a strong portfolio of web applications  
+
+Core Skills:
+
+- Deep knowledge of Next.js and React ecosystem  
+- Proficiency in modern JavaScript (ES6+), HTML5, and CSS3  
+- Experience with GraphQL, including writing and optimizing queries  
+- Working experience with MongoDB database  
+- Strong understanding of responsive design principles and cross-browser compatibility  
+- Excellent problem-solving skills and attention to detail  
+- Ability to work independently and collaboratively in a fast-paced environment  
+- Strong communication skills and ability to explain technical concepts to non-technical stakeholders  
+
+Preferred Qualifications:
+
+- Experience with state management libraries (e.g., Redux, MobX)  
+- Knowledge of TypeScript  
+- Familiarity with CI/CD pipelines and DevOps practices  
+- Experience with unit testing and end-to-end testing frameworks  
+- Understanding of SEO principles and their application in front-end development  
+
+Keywords: Next.js, React, JavaScript, GraphQL, MongoDB, Redux, CI/CD, Responsive Design, SEO, TypeScript
 
